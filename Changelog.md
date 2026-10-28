@@ -24,14 +24,18 @@
 <details>
 <summary><strong> 🐞 修复问题 </strong></summary>
 
+- 修复恢复备份的同时修改配置，可能导致配置丢失或错乱的问题
+
 </details>
 
 <details>
 <summary><strong> ✨ 新增功能 </strong></summary>
 
+
 </details>
 
 <details>
 <summary><strong> 🚀 优化改进 </strong></summary>
+
 
 </details>
